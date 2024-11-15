@@ -245,3 +245,8 @@ background-color: #f40f0f;
 #subHeader{
     padding-top: 3%;
 }
+ 
+.StepContent img{
+    width: 100%;
+    height: 100%;
+}
