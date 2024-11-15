@@ -226,11 +226,11 @@ margin-top: 5%;
 .card{
     margin: 5%;
     background-color: #f40f0f;
-    height: 2000vh;
+    
 }
 
 .card-body{
-    height: 6vh;
+    height: 10vh;
     background-color: #00000000;
 }
 .Education h1{
