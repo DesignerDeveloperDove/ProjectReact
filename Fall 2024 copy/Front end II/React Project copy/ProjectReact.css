@@ -224,7 +224,8 @@ margin-top: 5%;
 }
 .card{
     margin: 5%;
-background-color: #f40f0f;
+    background-color: #f40f0f;
+    height: 2vh;
 }
 
 .card-body{
