@@ -12,6 +12,10 @@ body{
    
     
 }
+nav{
+    position: sticky;
+    top: 0%;
+}
 nav .navBar{
     position: sticky;
     width: 100%;
