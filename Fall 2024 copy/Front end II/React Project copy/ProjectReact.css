@@ -183,20 +183,20 @@ End of meet the team page
 
 .StepContent{
   width: 100vw;
-  border: solid black 3px;
+  
   height: 22vh;
   display: flex;
 }
 #Num{
 flex-direction: row;
-border: solid black 3px;
+
 width: 15%;
 height: 100%;
 margin-left: 3%;
 }
 #text{
 flex-direction: row;
-border: solid black 3px;
+
 width: 85%;
 height: 100%;
 margin-right: 3%;
@@ -208,7 +208,7 @@ margin-right: 3%;
 #Showimg{
   display: flex;
   flex-direction: column;
-  border: solid black 3px;
+  
   height: 9%;
   width: 80%;
   margin-left: 13%;
