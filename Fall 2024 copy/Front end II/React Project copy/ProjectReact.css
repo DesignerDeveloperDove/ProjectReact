@@ -107,7 +107,8 @@ End of landing Page
   font-size: 7vh;
 }
 .MTTpage img{
- 
+  width: 60%;
+  border-radius: 50%;
   position: center;
   display: block;
   margin-left: auto;
