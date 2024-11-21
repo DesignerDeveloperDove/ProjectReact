@@ -274,6 +274,7 @@ margin-top: 5%;
 }
 #subHeader{
   padding-top: 3%;
+  opacity: 0;
 }
 
 .StepContent img{
