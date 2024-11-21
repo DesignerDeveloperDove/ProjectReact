@@ -74,46 +74,46 @@ gsap.fromTo(".card",
 
 
 );
-//images in installation
-gsap.fromTo("#Showimg",
+
+
+gsap.fromTo(".StepContent #text",
   {
-    x:-1000,
+
+    y:-1000,
     opacity:0,
   },{
-  x:0,
+  y:0,
   opacity:1,
   duration:5,
   scrollTrigger:{
-    trigger:"#Showimg",
+    trigger:".StepContent #text",
     start:"70px bottom",
     end:"70px 30%",
-    toggleActions:"play pause reverse restart ",
+    toggleActions:"play pause reverse restart",
     scrub:true,
     }
   }
 
 
 );
+/*const image = document.querySelector('img');
 
+image.addEventListener('mouseover', () => {
+  // Do something when the mouse hovers over the image
+  image.style.opacity = 0.5; 
+  image.style.border = "solid";
+  function Spin(){
+    gsap.to(()=>{
 
-// background on functionality page 
-gsap.fromTo(".FunctionalityPage",
-  {
-    backGroundColor:white,
-    x:-1000,
-    opacity:0,
-  },{
-  x:0,
-  opacity:1,
-  duration:5,
-  scrollTrigger:{
-    trigger:".card",
-    start:"70px bottom",
-    end:"70px 30%",
-    toggleActions:"play pause reverse restart ",
-    scrub:true,
-    }
+    })
   }
+});
+
+image.addEventListener('mouseout', () => {
+  // Do something when the mouse leaves the image
+  image.style.opacity = 1; 
+});
 
 
-);
+WORKING ON THIS , IGNORE
+*/
