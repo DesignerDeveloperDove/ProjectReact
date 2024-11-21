@@ -91,8 +91,6 @@ gsap.fromTo("#Showimg",
     scrub:true,
     }
   }
-
-
 );
 
 
