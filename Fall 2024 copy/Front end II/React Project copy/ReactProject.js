@@ -75,6 +75,26 @@ gsap.fromTo(".card",
 
 );
 
+gsap.fromTo("#Showimg",
+  {
+    x:-1000,
+    opacity:0,
+  },{
+  x:0,
+  opacity:1,
+  duration:5,
+  scrollTrigger:{
+    trigger:"#Showimg",
+    start:"70px bottom",
+    end:"70px 30%",
+    toggleActions:"play pause reverse restart ",
+    scrub:true,
+    }
+  }
+
+
+);
+
 
 gsap.fromTo(".StepContent #text",
   {
