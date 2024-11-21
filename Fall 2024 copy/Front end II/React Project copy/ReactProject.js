@@ -77,12 +77,10 @@ gsap.fromTo(".card",
 //
 gsap.fromTo("#Showimg",
   {
-    x:2000,
+    x:-1000,
     opacity:0,
-    width:20,
   },{
   x:0,
-  width:1000,
   opacity:1,
   duration:5,
   scrollTrigger:{
