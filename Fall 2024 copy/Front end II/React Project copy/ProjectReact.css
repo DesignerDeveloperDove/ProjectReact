@@ -117,7 +117,7 @@ End of landing Page
 
 .imgRow1{
   width: 100%;
-  border: solid black;
+ /* border: solid black;*/
   height: 50%;
   display: flex;
 
@@ -131,15 +131,15 @@ End of landing Page
 }
 .imgRow1 #img1{
   width: 33%;
-  border: solid black;
+  /*border: solid black;*/
 }
 .imgRow1 #img2{
   width: 33%;
-  border: solid black;
+ /* border: solid black;*/
 }
 .imgRow1 #img3{
   width: 33%;
-  border: solid black;
+  /*border: solid black;*/
 }
 
 /*  space */
@@ -147,15 +147,15 @@ End of landing Page
 
 .imgRow2 #img4{
   width: 33%;
-  border: solid black;
+ /* border: solid black;*/
 }
 .imgRow2 #img5{
   width: 33%;
-  border: solid black;
+  /*border: solid black;*/
 }
 .imgRow2 #img6{
   width: 33%;
-  border: solid black;
+ /* border: solid black;*/
 }
 
 
@@ -225,7 +225,7 @@ Installation page end
 
 .FunctionalityPage #HeroIMG{
 
-border: solid black 3px;
+/*border: solid black 3px;*/
 margin-left: 10%;
 margin-right: 10%;
 width: 80%;
@@ -244,7 +244,7 @@ margin-top: 5%;
   margin-top: 10%;
   padding-left: 10%;
   padding-right: 10%;
-  border: solid black;
+  /*border: solid black;*/
   
 
 }
