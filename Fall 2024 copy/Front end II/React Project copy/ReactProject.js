@@ -6,11 +6,6 @@
  });
 gsap.fromto("#SubHeader #b",{opacity:0},{opacity:1,duration:5});
 
-window.onbeforeunload = function () {
-    window.scrollTo(0, 0);
-  }
-  location.replace(location.href);
-
   gsap.fromto("RightSide",{x:500},{y:1200,duration:10})
 console.log("test")
 
