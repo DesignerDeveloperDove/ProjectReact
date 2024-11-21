@@ -69,6 +69,7 @@ text-decoration: none;
   height: 100vh;
   float: right;
   flex-direction: row;
+  position: relative;
 
 }
 .RightSide #SubHeader h2{
@@ -274,7 +275,7 @@ margin-top: 5%;
 }
 #subHeader{
   padding-top: 3%;
-  opacity: 0;
+  opacity: 1;
 }
 
 .StepContent img{
