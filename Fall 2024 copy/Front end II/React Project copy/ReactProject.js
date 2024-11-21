@@ -12,6 +12,6 @@ window.onbeforeunload = function () {
   location.replace(location.href);
 
   gsap.fromto("RightSide",{x:500},{y:1200,duration:10})
-
+console.log("test")
 
 
