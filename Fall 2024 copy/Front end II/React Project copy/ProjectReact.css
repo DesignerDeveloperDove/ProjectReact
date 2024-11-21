@@ -208,11 +208,10 @@ margin-right: 3%;
 #Showimg{
   display: flex;
   flex-direction: column;
-  
   height: 9%;
   width: 80%;
   margin-left: 13%;
-  background-color: #74C2D9;
+  background-color: none;
   margin-top: 2%;
 }
 /*
