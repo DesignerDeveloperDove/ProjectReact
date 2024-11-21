@@ -7,6 +7,6 @@
 gsap.fromto("#SubHeader #b",{opacity:0},{opacity:1,duration:5});
 
   gsap.fromto("RightSide",{x:500},{y:1200,duration:10})
-console.log("test")
+console.log("test");
 
 
