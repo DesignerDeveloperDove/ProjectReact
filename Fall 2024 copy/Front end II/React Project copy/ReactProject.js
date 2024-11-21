@@ -7,7 +7,7 @@
  */
 gsap.fromTo("#SubHeader",{opacity:0},{opacity:1,duration:5});
 
-  gsap.fromTo("RightSide",{x:500},{y:1200,duration:10});
+  gsap.fromTo(".RightSide",{x:500},{y:1200,duration:10});
 
 
 console.log("test");
