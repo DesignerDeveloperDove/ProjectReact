@@ -4,11 +4,11 @@
   gsap.registerPlugin(ScrollTrigger)
   // gsap code here!
  });
-gsap.fromto("#SubHeader #b",{opacity:0},{opacity:1,duration:5});
+gsap.fromTo("#SubHeader #b",{opacity:0},{opacity:1,duration:5});
 
-  gsap.fromto("RightSide",{x:500},{y:1200,duration:10});
+  gsap.fromTo("RightSide",{x:500},{y:1200,duration:10});
 
-  
+
 console.log("test");
 
 
