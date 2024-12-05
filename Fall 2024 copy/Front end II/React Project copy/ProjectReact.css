@@ -124,7 +124,7 @@ End of landing Page
 }
 .imgRow2{
   width: 100%;
-  border: solid black;
+  /*border: solid black;*/
   height: 50%;
   display: flex;
 
