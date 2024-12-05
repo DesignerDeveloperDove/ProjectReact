@@ -24,7 +24,7 @@ gsap.fromTo(".imgRow2",
     end:"40px 30%",
     toggleActions:"play pause reverse restart ",
     scrub:true,
-    markers:true,
+    //markers:true,
     }
   }
 
