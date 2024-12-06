@@ -282,3 +282,17 @@ margin-top: 5%;
   width: 7vw;
   
 }
+.FinalGame{
+  display: flex;
+}
+.FinalGame h1{
+ color: #0b6580;
+ justify-content: center;
+}
+.FinalGame a{
+font-size: 200px;
+text-decoration: none;
+color: #74C2D9;
+justify-content: center;
+
+}
